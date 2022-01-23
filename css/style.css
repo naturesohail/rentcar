@@ -1,0 +1,50 @@
+*{ margin: 0px; padding: 0px; box-sizing: border-box;  }
+
+.nav-item{
+
+	color: black;
+    
+}
+.img{
+	width:60px;
+	height: 10vh;
+}
+.carousel-inner img{
+
+	width: 100%;
+	height:90vh;
+}
+.img-fluid{
+	width: 600px;
+	height: 30vh;
+	border-radius: 150px;
+}
+
+.text-effect{
+color: blue;
+transition: transform 2s;
+text-shadow: 5px 10px 12px blue ;
+}
+.text-effect:hover{
+     transform:rotate(360deg);
+
+
+
+}
+.navbar-style{
+	color: red;
+}
+
+.navbar-brand{
+	width: 160px;
+	height:60px;
+}
+.navbar-style{
+	 color: green;
+	 box-shadow: 5px 0px 30px ;
+	}
+	.footer{
+		color:grey;
+     box-shadow: 0px 15px 15px;
+	}
+
